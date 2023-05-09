@@ -1,0 +1,11 @@
+<div class="container">
+    <manufacturer-table class="table" #manufactureTableComponent></manufacturer-table>
+
+    <div class="button-container">
+        <button mat-raised-button (click)="toggleForm(1)">Add Manufacturer</button>
+    </div>
+
+    <div *ngIf="formState === 1">
+        <manufacturer-form (manufacturerAdded)="onManufacturerAdded()"></manufacturer-form>
+    </div>
+</div>

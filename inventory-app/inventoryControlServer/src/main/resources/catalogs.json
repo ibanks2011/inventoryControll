@@ -1,0 +1,424 @@
+[
+  {
+    "catalogId": 1,
+    "manufacturerId": 1,
+    "countryCode": 392,
+    "description": "Toyota Camry",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 2,
+    "manufacturerId": 1,
+    "countryCode": 392,
+    "description": "Toyota Corolla",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 3,
+    "manufacturerId": 2,
+    "countryCode": 276,
+    "description": "Volkswagen Golf",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 4,
+    "manufacturerId": 2,
+    "countryCode": 276,
+    "description": "Volkswagen Passat",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 5,
+    "manufacturerId": 3,
+    "countryCode": 840,
+    "description": "Ford F-150",
+    "vehicleType": "truck"
+  },
+  {
+    "catalogId": 6,
+    "manufacturerId": 3,
+    "countryCode": 840,
+    "description": "Ford Mustang",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 7,
+    "manufacturerId": 4,
+    "countryCode": 392,
+    "description": "Honda Civic",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 8,
+    "manufacturerId": 4,
+    "countryCode": 392,
+    "description": "Honda Accord",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 9,
+    "manufacturerId": 5,
+    "countryCode": 840,
+    "description": "Chevrolet Silverado",
+    "vehicleType": "truck"
+  },
+  {
+    "catalogId": 10,
+    "manufacturerId": 5,
+    "countryCode": 840,
+    "description": "Chevrolet Malibu",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 11,
+    "manufacturerId": 6,
+    "countryCode": 392,
+    "description": "Nissan Altima",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 12,
+    "manufacturerId": 6,
+    "countryCode": 392,
+    "description": "Nissan Rogue",
+    "vehicleType": "SUV"
+  },
+  {
+    "catalogId": 13,
+    "manufacturerId": 7,
+    "countryCode": 276,
+    "description": "BMW 3 Series",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 14,
+    "manufacturerId": 7,
+    "countryCode": 276,
+    "description": "BMW 5 Series",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 15,
+    "manufacturerId": 8,
+    "countryCode": 276,
+    "description": "Mercedes-Benz C-Class",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 16,
+    "manufacturerId": 8,
+    "countryCode": 276,
+    "description": "Mercedes-Benz E-Class",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 17,
+    "manufacturerId": 9,
+    "countryCode": 380,
+    "description": "Fiat 500",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 18,
+    "manufacturerId": 9,
+    "countryCode": 380,
+    "description": "Fiat Panda",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 19,
+    "manufacturerId": 10,
+    "countryCode": 724,
+    "description": "SEAT Ibiza",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 20,
+    "manufacturerId": 10,
+    "countryCode": 724,
+    "description": "SEAT Leon",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 21,
+    "manufacturerId": 11,
+    "countryCode": 250,
+    "description": "Renault Clio",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 22,
+    "manufacturerId": 11,
+    "countryCode": 250,
+    "description": "Renault Megane",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 23,
+    "manufacturerId": 12,
+    "countryCode": 276,
+    "description": "Audi A4",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 24,
+    "manufacturerId": 12,
+    "countryCode": 276,
+    "description": "Audi A6",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 25,
+    "manufacturerId": 13,
+    "countryCode": 276,
+    "description": "Opel Astra",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 26,
+    "manufacturerId": 13,
+    "countryCode": 276,
+    "description": "Opel Corsa",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 27,
+    "manufacturerId": 14,
+    "countryCode": 826,
+    "description": "Mini Cooper",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 28,
+    "manufacturerId": 14,
+    "countryCode": 826,
+    "description": "Mini Countryman",
+    "vehicleType": "SUV"
+  },
+  {
+    "catalogId": 29,
+    "manufacturerId": 15,
+    "countryCode": 756,
+    "description": "Volvo XC90",
+    "vehicleType": "SUV"
+  },
+  {
+    "catalogId": 30,
+    "manufacturerId": 15,
+    "countryCode": 756,
+    "description": "Volvo S90",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 31,
+    "manufacturerId": 16,
+    "countryCode": 840,
+    "description": "Dodge Ram",
+    "vehicleType": "truck"
+  },
+  {
+    "catalogId": 32,
+    "manufacturerId": 16,
+    "countryCode": 840,
+    "description": "Dodge Charger",
+    "vehicleType": "car"
+  },
+  {
+    "catalogId": 33,
+    "manufacturerId": 17,
+    "countryCode" : 840,
+    "description": "um",
+    "vehicleType": "lil boat"
+  },
+  {
+      "catalogId": 34,
+      "manufacturerId": 17,
+      "countryCode": 840,
+      "description": "Jeep Wrangler",
+      "vehicleType": "SUV"
+    },
+    {
+      "catalogId": 35,
+      "manufacturerId": 18,
+      "countryCode": 840,
+      "description": "Chrysler Pacifica",
+      "vehicleType": "minivan"
+    },
+    {
+      "catalogId": 36,
+      "manufacturerId": 18,
+      "countryCode": 840,
+      "description": "Chrysler 300",
+      "vehicleType": "car"
+    },
+    {
+      "catalogId": 37,
+      "manufacturerId": 19,
+      "countryCode": 380,
+      "description": "Lamborghini Aventador",
+      "vehicleType": "car"
+    },
+    {
+      "catalogId": 38,
+      "manufacturerId": 19,
+      "countryCode": 380,
+      "description": "Lamborghini Huracan",
+      "vehicleType": "car"
+    },
+    {
+      "catalogId": 39,
+      "manufacturerId": 20,
+      "countryCode": 840,
+      "description": "GMC Sierra",
+      "vehicleType": "truck"
+    },
+    {
+      "catalogId": 40,
+      "manufacturerId": 20,
+      "countryCode": 840,
+      "description": "GMC Yukon",
+      "vehicleType": "SUV"
+    },
+    {
+      "catalogId": 41,
+      "manufacturerId": 21,
+      "countryCode": 840,
+      "description": "Cadillac Escalade",
+      "vehicleType": "SUV"
+    },
+    {
+      "catalogId": 42,
+      "manufacturerId": 21,
+      "countryCode": 840,
+      "description": "Cadillac CT5",
+      "vehicleType": "car"
+    },
+    {
+      "catalogId": 43,
+      "manufacturerId": 22,
+      "countryCode": 840,
+      "description": "Tesla Model S",
+      "vehicleType": "car"
+    },
+    {
+      "catalogId": 44,
+      "manufacturerId": 22,
+      "countryCode": 840,
+      "description": "Tesla Model X",
+      "vehicleType": "SUV"
+    },
+    {
+      "catalogId": 45,
+      "manufacturerId": 23,
+      "countryCode": 826,
+      "description": "Jaguar F-PACE",
+      "vehicleType": "SUV"
+    },
+    {
+      "catalogId": 46,
+      "manufacturerId": 23,
+      "countryCode": 826,
+      "description": "Jaguar XE",
+      "vehicleType": "car"
+    },
+    {
+      "catalogId": 47,
+      "manufacturerId": 24,
+      "countryCode": 826,
+      "description": "Land Rover Range Rover",
+      "vehicleType": "SUV"
+    },
+    {
+      "catalogId": 48,
+      "manufacturerId": 24,
+      "countryCode": 826,
+      "description": "Land Rover Discovery",
+      "vehicleType": "SUV"
+    },
+    {
+      "catalogId": 49,
+      "manufacturerId": 25,
+      "countryCode": 724,
+      "description": "Porsche 911",
+      "vehicleType": "car"
+    },
+    {
+        "catalogId": 50,
+        "manufacturerId": 25,
+        "countryCode": 724,
+        "description": "Porsche Cayenne",
+        "vehicleType": "SUV"
+      },
+      {
+        "catalogId": 51,
+        "manufacturerId": 26,
+        "countryCode": 250,
+        "description": "Peugeot 208",
+        "vehicleType": "car"
+      },
+      {
+        "catalogId": 52,
+        "manufacturerId": 26,
+        "countryCode": 250,
+        "description": "Peugeot 3008",
+        "vehicleType": "SUV"
+      },
+      {
+        "catalogId": 53,
+        "manufacturerId": 27,
+        "countryCode": 250,
+        "description": "Citroen C3",
+        "vehicleType": "car"
+      },
+      {
+        "catalogId": 54,
+        "manufacturerId": 27,
+        "countryCode": 250,
+        "description": "Citroen C5 Aircross",
+        "vehicleType": "SUV"
+      },
+      {
+        "catalogId": 55,
+        "manufacturerId": 28,
+        "countryCode": 380,
+        "description": "Alfa Romeo Giulia",
+        "vehicleType": "car"
+      },
+      {
+        "catalogId": 56,
+        "manufacturerId": 28,
+        "countryCode": 380,
+        "description": "Alfa Romeo Stelvio",
+        "vehicleType": "SUV"
+      },
+      {
+        "catalogId": 57,
+        "manufacturerId": 29,
+        "countryCode": 840,
+        "description": "Lincoln Navigator",
+        "vehicleType": "SUV"
+      },
+      {
+        "catalogId": 58,
+        "manufacturerId": 29,
+        "countryCode": 840,
+        "description": "Lincoln MKZ",
+        "vehicleType": "car"
+      },
+      {
+        "catalogId": 59,
+        "manufacturerId": 30,
+        "countryCode": 528,
+        "description": "Spyker C8",
+        "vehicleType": "car"
+      },
+      {
+        "catalogId": 60,
+        "manufacturerId": 30,
+        "countryCode": 528,
+        "description": "Spyker B6",
+        "vehicleType": "car"
+      }
+    ]
+
+

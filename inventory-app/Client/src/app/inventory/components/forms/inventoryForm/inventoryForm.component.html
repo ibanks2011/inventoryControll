@@ -1,0 +1,27 @@
+<form class="form "[formGroup]="inventoryForm">
+    <mat-form-field appearance="fill">
+      <mat-label>catalogId</mat-label>
+      <input matInput formControlName="catalogId">
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+      <mat-label>color</mat-label>
+      <input matInput formControlName="color">
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+      <mat-label>numberOfWheels</mat-label>
+      <input matInput formControlName="numberOfWheels">
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+        <mat-label>serialNumber</mat-label>
+        <input matInput formControlName="serialNumber">
+    </mat-form-field>
+
+
+    <button mat-button color="primary" (click)="addInventory()">Add Item</button>
+  
+  </form> 
+  
+

@@ -1,0 +1,13 @@
+<h2 mat-dialog-title>Update</h2>
+<mat-dialog-content>
+  <form class="form "[formGroup]="manufacturerForm">
+  <mat-form-field appearance="fill">
+    <mat-label>companyName</mat-label>
+    <input matInput formControlName="companyName">
+  </mat-form-field>
+  </form> 
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Cancel</button>
+  <button mat-button color="primary" (click)="updateManufacturer()">Update Manufacturer</button>
+</mat-dialog-actions>

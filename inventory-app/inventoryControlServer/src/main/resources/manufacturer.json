@@ -1,0 +1,122 @@
+[
+  {
+    "manufacturerId": 1,
+    "companyName": "Toyota"
+  },
+  {
+    "manufacturerId": 2,
+    "companyName": "Volkswagen"
+  },
+  {
+    "manufacturerId": 3,
+    "companyName": "Ford"
+  },
+  {
+    "manufacturerId": 4,
+    "companyName": "Honda"
+  },
+  {
+    "manufacturerId": 5,
+    "companyName": "General Motors"
+  },
+  {
+    "manufacturerId": 6,
+    "companyName": "Nissan"
+  },
+  {
+    "manufacturerId": 7,
+    "companyName": "BMW"
+  },
+  {
+    "manufacturerId": 8,
+    "companyName": "Mercedes-Benz"
+  },
+  {
+    "manufacturerId": 9,
+    "companyName": "Fiat Chrysler Automobiles"
+  },
+  {
+    "manufacturerId": 10,
+    "companyName": "Hyundai"
+  },
+  {
+    "manufacturerId": 11,
+    "companyName": "Kia"
+  },
+  {
+    "manufacturerId": 12,
+    "companyName": "Mazda"
+  },
+  {
+    "manufacturerId": 13,
+    "companyName": "Subaru"
+  },
+  {
+    "manufacturerId": 14,
+    "companyName": "Suzuki"
+  },
+  {
+    "manufacturerId": 15,
+    "companyName": "Audi"
+  },
+  {
+    "manufacturerId": 16,
+    "companyName": "Peugeot"
+  },
+  {
+    "manufacturerId": 17,
+    "companyName": "Renault"
+  },
+  {
+    "manufacturerId": 18,
+    "companyName": "Jaguar Land Rover"
+  },
+  {
+    "manufacturerId": 19,
+    "companyName": "Mitsubishi"
+  },
+  {
+    "manufacturerId": 20,
+    "companyName": "Volvo"
+  },
+  {
+    "manufacturerId": 21,
+    "companyName": "Porsche"
+  },
+  {
+    "manufacturerId": 22,
+    "companyName": "Alfa Romeo"
+  },
+  {
+    "manufacturerId": 23,
+    "companyName": "Tesla"
+  },
+  {
+    "manufacturerId": 24,
+    "companyName": "Lexus"
+  },
+  {
+    "manufacturerId": 25,
+    "companyName": "Infiniti"
+  },
+  {
+    "manufacturerId": 26,
+    "companyName": "Acura"
+  },
+  {
+    "manufacturerId": 27,
+    "companyName": "Jeep"
+  },
+  {
+    "manufacturerId": 28,
+    "companyName": "Dodge"
+  },
+  {
+    "manufacturerId": 29,
+    "companyName": "Ram"
+  },
+  {
+    "manufacturerId": 30,
+    "companyName": "Skoda"
+  }
+]

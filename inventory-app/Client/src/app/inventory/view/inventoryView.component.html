@@ -1,0 +1,13 @@
+<div class="container">
+   <inventory-table class="table" #inventoryTableComponent></inventory-table>
+
+   <div class="button-container">
+        <button mat-raised-button (click)="toggleForm(1)">Add Item</button>
+   </div>
+
+   <div *ngIf="formState === 1">
+        <!-- <inventory-form (itemAdded)="onItemAdded()"></inventory-form> -->
+        <inventory-form-with-catalog (itemAdded)="onItemAdded()"></inventory-form-with-catalog>
+    </div>
+
+</div>

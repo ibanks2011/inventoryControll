@@ -1,0 +1,34 @@
+<form class="form "[formGroup]="inventoryForm">
+  <div class="form-fields">
+    
+    <mat-form-field>
+      <mat-label>Catalog</mat-label>
+      <mat-select formControlName="catalog">
+        <mat-option *ngFor="let c of catalogs" [value]="c.catalogId">Description : {{ c.description }} Manufacturer: {{c.manufacturer.companyName}}  Country: {{c.country.name}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+      <mat-label>color</mat-label>
+          <input matInput formControlName="color">
+    </mat-form-field>
+    
+    <mat-form-field appearance="fill">
+        <mat-label>numberOfWheels</mat-label>
+        <input matInput formControlName="numberOfWheels">
+    </mat-form-field>
+    
+    <mat-form-field appearance="fill">
+          <mat-label>serialNumber</mat-label>
+          <input matInput formControlName="serialNumber">
+    </mat-form-field>
+
+  </div>
+  
+  <div class="button-container">
+    <button mat-button (click)="addInventory()">Add Item</button>
+  </div>  
+  
+  </form> 
+  
+

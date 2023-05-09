@@ -1,0 +1,39 @@
+<!-- Toolbar -->
+<div class="toolbar" role="banner">
+ <button (click) = "sidenav.toggle()" mat-icon-button color="accent" >
+  <mat-icon>menu</mat-icon>
+</button>
+  <a routerLink="">Home</a>
+  <a routerLink="about">About Us</a>
+
+    <div class="spacer"></div>
+    <a routerLink="login">Login</a>     
+
+</div>
+
+<!--sidenav-->
+<mat-sidenav-container>  
+  <mat-sidenav #sidenav mode="side"  opened>
+    <mat-list>
+      <mat-list-item>
+        <mat-icon matListItemIcon>account_box</mat-icon>
+        <a routerLink="manufacturer">Manufacturer</a>
+      </mat-list-item>
+      <mat-list-item>
+        <mat-icon matListItemIcon>shop</mat-icon>
+        <a routerLink="catalog">Catalog</a>
+      </mat-list-item>
+      <mat-list-item>
+        <mat-icon matListItemIcon>inventory</mat-icon>
+        <a routerLink="inventory">Inventory</a>
+      </mat-list-item>
+    </mat-list>
+  </mat-sidenav>
+  <!--main-->
+  <mat-sidenav-content>
+    <div class="content" role="main">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+  
+</mat-sidenav-container>

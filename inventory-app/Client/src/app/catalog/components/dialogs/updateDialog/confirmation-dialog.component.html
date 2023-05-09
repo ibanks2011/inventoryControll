@@ -1,0 +1,38 @@
+<h2 mat-dialog-title>Update</h2>
+<mat-dialog-content>
+  <form class="form "[formGroup]="inventoryForm">
+    <mat-form-field>
+      <mat-label>Manufacturer</mat-label>
+      <mat-select formControlName="manufacturer">
+        <mat-option *ngFor="let m of manufacturers" [value]="m">Manufacturer : {{ m.companyName }} id: {{m.manufacturerId}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+  <mat-form-field>
+    <input type="text"
+           placeholder="Pick a Country"
+           matInput
+           [formControl]="jsonControl"
+           [matAutocomplete]="auto">
+    <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
+      <mat-option *ngFor="let option of filteredJSONDataOptions | async" [value]="option.name" (onSelectionChange)="onSelect(option)">
+        {{option.name}}
+      </mat-option>
+    </mat-autocomplete>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>description</mat-label>
+    <input matInput formControlName="description">
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>vehicleType</mat-label>
+    <input matInput formControlName="vehicleType">
+  </mat-form-field>
+  </form> 
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Cancel</button>
+  <button mat-button color="primary" (click)="updateCatalog()">Update Catalog</button>
+</mat-dialog-actions>

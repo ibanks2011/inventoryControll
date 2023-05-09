@@ -1,0 +1,19 @@
+<div class="container">
+    <catalog-table class="table" #catalogTableComponent></catalog-table>
+  
+    <div class="button-container">
+      <!-- <button mat-raised-button (click)="toggleForm(1)">Add Catalog with New Manufacturer</button> -->
+      <button mat-raised-button (click)="toggleForm(2)">Add Catalog</button>
+    </div>
+
+
+ 
+<!--   
+    <div *ngIf="formState === 1">
+      <catalog-form (catalogAdded)="onCatalogAdded()"></catalog-form>
+    </div> -->
+    <div *ngIf="formState === 2">
+      <catalog-form-with-man-state (catalogAdded)="onCatalogAdded()"></catalog-form-with-man-state>
+    </div>
+</div>
+   

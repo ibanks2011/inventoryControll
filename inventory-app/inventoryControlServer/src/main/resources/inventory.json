@@ -1,0 +1,352 @@
+[
+  {
+    "inventoryItemId": 1,
+    "catalogId": 1,
+    "color": "Blue",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0001"
+  },
+  {
+    "inventoryItemId": 2,
+    "catalogId": 2,
+    "color": "White",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0002"
+  },
+  {
+    "inventoryItemId": 3,
+    "catalogId": 3,
+    "color": "Red",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0003"
+  },
+  {
+    "inventoryItemId": 4,
+    "catalogId": 4,
+    "color": "Black",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0004"
+  },
+  {
+    "inventoryItemId": 5,
+    "catalogId": 5,
+    "color": "Gray",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0005"
+  },
+  {
+    "inventoryItemId": 6,
+    "catalogId": 6,
+    "color": "Silver",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0006"
+  },
+  {
+    "inventoryItemId": 7,
+    "catalogId": 7,
+    "color": "Green",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0007"
+  },
+  {
+    "inventoryItemId": 8,
+    "catalogId": 8,
+    "color": "Yellow",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0008"
+  },
+  {
+    "inventoryItemId": 9,
+    "catalogId": 9,
+    "color": "Blue",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0009"
+  },
+  {
+    "inventoryItemId": 10,
+    "catalogId": 10,
+    "color": "White",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0010"
+  },
+  {
+    "inventoryItemId": 11,
+    "catalogId": 11,
+    "color": "Red",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0011"
+  },
+  {
+    "inventoryItemId": 12,
+    "catalogId": 12,
+    "color": "Black",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0012"
+  },
+  {
+    "inventoryItemId": 13,
+    "catalogId": 13,
+    "color": "Gray",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0013"
+  },
+  {
+    "inventoryItemId": 14,
+    "catalogId": 14,
+    "color": "Silver",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0014"
+  },
+  {
+    "inventoryItemId": 15,
+    "catalogId": 15,
+    "color": "Green",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0015"
+  },
+  {
+    "inventoryItemId": 16,
+    "catalogId": 16,
+    "color": "Yellow",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0016"
+  },
+  {
+    "inventoryItemId": 17,
+    "catalogId": 17,
+    "color": "Blue",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0017"
+  },
+  {
+    "inventoryItemId": 18,
+    "catalogId": 18,
+    "color": "White",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0018"
+  },
+  {
+    "inventoryItemId": 19,
+    "catalogId": 19,
+    "color": "Red",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0019"
+  },
+  {
+    "inventoryItemId": 20,
+    "catalogId": 20,
+    "color": "Black",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0020"
+  },
+  {
+    "inventoryItemId": 21,
+    "catalogId": 21,
+    "color": "Gray",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0021"
+  },
+  {
+    "inventoryItemId": 22,
+    "catalogId": 22,
+    "color": "Silver",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0022"
+  },
+  {
+    "inventoryItemId": 23,
+    "catalogId": 23,
+    "color": "Green",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0023"
+  },
+  {
+    "inventoryItemId": 24,
+    "catalogId": 24,
+    "color": "Yellow",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0024"
+  },
+  {
+    "inventoryItemId": 25,
+    "catalogId": 25,
+    "color": "Blue",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0025"
+  },
+  {
+    "inventoryItemId": 26,
+    "catalogId": 26,
+    "color": "White",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0026"
+  },
+  {
+    "inventoryItemId": 27,
+    "catalogId": 27,
+    "color": "Red",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0027"
+  },
+  {
+    "inventoryItemId": 28,
+    "catalogId": 28,
+    "color": "Black",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0028"
+  },
+  {
+    "inventoryItemId": 29,
+    "catalogId": 29,
+    "color": "Gray",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0029"
+  },
+  {
+    "inventoryItemId": 30,
+    "catalogId": 30,
+    "color": "Silver",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0030"
+  },
+  {
+    "inventoryItemId": 31,
+    "catalogId": 31,
+    "color": "Green",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0031"
+  },
+  {
+    "inventoryItemId": 32,
+    "catalogId": 32,
+    "color": "Yellow",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0032"
+  },
+  {
+    "inventoryItemId": 33,
+    "catalogId": 33,
+    "color": "Blue",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0033"
+  },
+  {
+    "inventoryItemId": 34,
+    "catalogId": 34,
+    "color": "White",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0034"
+  },
+  {
+    "inventoryItemId": 35,
+    "catalogId": 35,
+    "color": "Red",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0035"
+  },
+  {
+    "inventoryItemId": 36,
+    "catalogId": 36,
+    "color": "Black",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0036"
+  },
+  {
+    "inventoryItemId": 37,
+    "catalogId": 37,
+    "color": "Gray",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0037"
+  },
+  {
+    "inventoryItemId": 38,
+    "catalogId": 38,
+    "color": "Silver",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0038"
+  },
+  {
+    "inventoryItemId": 39,
+    "catalogId": 39,
+    "color": "Green",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0039"
+  },
+  {
+    "inventoryItemId": 40,
+    "catalogId": 40,
+    "color": "Yellow",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0040"
+  },
+  {
+    "inventoryItemId": 41,
+    "catalogId": 41,
+    "color": "Blue",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0041"
+  },
+  {
+    "inventoryItemId": 42,
+    "catalogId": 42,
+    "color": "White",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0042"
+  },
+  {
+    "inventoryItemId": 43,
+    "catalogId": 43,
+    "color": "Red",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0043"
+  },
+  {
+    "inventoryItemId": 44,
+    "catalogId": 44,
+    "color": "Black",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0044"
+  },
+  {
+    "inventoryItemId": 45,
+    "catalogId": 45,
+    "color": "Gray",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0045"
+  },
+  {
+    "inventoryItemId": 46,
+    "catalogId": 46,
+    "color": "Silver",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0046"
+  },
+  {
+    "inventoryItemId": 47,
+    "catalogId": 47,
+    "color": "Green",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0047"
+  },
+  {
+    "inventoryItemId": 48,
+    "catalogId": 48,
+    "color": "Yellow",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0048"
+  },
+  {
+    "inventoryItemId": 49,
+    "catalogId": 49,
+    "color": "Blue",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0049"
+  },
+  {
+    "inventoryItemId": 50,
+    "catalogId": 50,
+    "color": "White",
+    "numberOfWheels": 4,
+    "serialNumber": "INV0050"
+  }
+]

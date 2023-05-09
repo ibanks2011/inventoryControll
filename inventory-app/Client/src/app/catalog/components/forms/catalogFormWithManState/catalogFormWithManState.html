@@ -1,0 +1,51 @@
+<form class="form "[formGroup]="catalogForm">
+<div class="form-fields">
+    
+
+  <mat-form-field required>
+    <input type="text"
+           placeholder="Pick a Manufacturer"
+           aria-label="Number"
+           matInput
+           [formControl]="jsonManufacturerControl"
+           formControlName="manufacturer"
+           [matAutocomplete]="manAuto">
+    <mat-autocomplete autoActiveFirstOption #manAuto="matAutocomplete">
+      <mat-option *ngFor="let manufacturer of filteredJSONManufacturers | async" [value]="manufacturer.companyName" (onSelectionChange)="onManufacturerSelect(manufacturer)">
+        {{manufacturer.companyName}}
+      </mat-option>
+    </mat-autocomplete>
+  </mat-form-field>
+
+  <mat-form-field required>
+    <input type="text"
+           placeholder="Pick a Country"
+           aria-label="Number"
+           matInput
+           [formControl]="jsonCountryControl"
+           formControlName="country"
+           [matAutocomplete]="countryAuto">
+    <mat-autocomplete autoActiveFirstOption #countryAuto="matAutocomplete">
+      <mat-option *ngFor="let country of filteredJSONCountries | async" [value]="country.name" (onSelectionChange)="onCountrySelect(country)">
+        {{country.name}}
+      </mat-option>
+    </mat-autocomplete>
+  </mat-form-field>
+
+    <mat-form-field appearance="fill" required>
+      <mat-label>description</mat-label>
+      <input matInput formControlName="description">
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" required>
+        <mat-label>vehicleType</mat-label>
+        <input matInput formControlName="vehicleType">
+    </mat-form-field>
+</div>
+
+  <div class="button-container">
+    <button mat-button (click)="addCatalog()">Add Catalog</button>
+  </div>
+  </form> 
+  
+
