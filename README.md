@@ -1,2 +1,2 @@
-# inventoryControll
-Java Spring boot inventory controll application with Angular frontend
+# inventoryControl
+Java Spring boot inventory control application with Angular frontend
